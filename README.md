@@ -1,2 +1,3 @@
-# unitygamep4
-Petr Svoboda, Vojta Boura
+# Infinity runner
+Programová část - Petr Svoboda
+Visuální část - Vojta Boura
